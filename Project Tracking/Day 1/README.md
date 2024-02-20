@@ -2,4 +2,5 @@ I purchased the materials today and assembled the table, but I discovered that t
 
 No time this weekend, continue next week
 
-TODO: Fix table stability issues and complete assembly
+> [!Important]
+> # Fix table stability issues and complete assembly
